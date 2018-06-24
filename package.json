@@ -1,0 +1,30 @@
+{
+  "name": "giphyreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schmitty890/giphyreact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmitty890/giphyreact/issues"
+  },
+  "homepage": "https://github.com/schmitty890/giphyreact",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  }
+}
